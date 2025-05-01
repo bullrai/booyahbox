@@ -6,6 +6,9 @@ set(PICO_SDK_PATH "$ENV{HOME}/pico/pico-sdk")
 # Inclure et initialiser le SDK
 include(${PICO_SDK_PATH}/pico_sdk_init.cmake)
 project(booyahbox C CXX ASM)
+set(CMAKE_C_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
+
 pico_sdk_init()
 
 # Créer l'exécutable
@@ -30,6 +33,8 @@ target_link_libraries(booyahbox
     hardware_adc
     tinyusb_device
     tinyusb_board
+    pico_bootrom
+    hardware_timer
 )
 
 # Générer le .uf2 pour BOOTSEL
