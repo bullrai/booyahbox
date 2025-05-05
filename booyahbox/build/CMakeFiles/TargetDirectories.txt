@@ -198,3 +198,9 @@
 /home/bull/pico/booyahbox/build/pico-sdk/src/rp2_common/pico_stdlib/CMakeFiles/rebuild_cache.dir
 /home/bull/pico/booyahbox/build/pico-sdk/docs/CMakeFiles/edit_cache.dir
 /home/bull/pico/booyahbox/build/pico-sdk/docs/CMakeFiles/rebuild_cache.dir
+/home/bull/pico/booyahbox/build/lib/pico-ssd1306/CMakeFiles/pico_ssd1306.dir
+/home/bull/pico/booyahbox/build/lib/pico-ssd1306/CMakeFiles/edit_cache.dir
+/home/bull/pico/booyahbox/build/lib/pico-ssd1306/CMakeFiles/rebuild_cache.dir
+/home/bull/pico/booyahbox/build/lib/pico-ssd1306/textRenderer/CMakeFiles/ssd1306_textRenderer.dir
+/home/bull/pico/booyahbox/build/lib/pico-ssd1306/textRenderer/CMakeFiles/edit_cache.dir
+/home/bull/pico/booyahbox/build/lib/pico-ssd1306/textRenderer/CMakeFiles/rebuild_cache.dir

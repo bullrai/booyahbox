@@ -5,5 +5,8 @@
   "cmake.configureSettings": {
     "PICO_SDK_PATH": "/home/bull/pico/pico-sdk"
   },
-  "cmake.configureOnOpen": true
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "cstdint": "cpp"
+  }
 }
