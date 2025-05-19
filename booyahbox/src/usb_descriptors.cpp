@@ -1,5 +1,6 @@
+#include "usb_descriptors.h"
 #include "tusb.h"
-#include "pins.h" 
+// #include "pins.h" 
 
 
 // --- Device Descriptor ---
@@ -46,7 +47,7 @@ static const uint8_t hid_report_desc[] = {
     0x75, 0x01,        //   Report Size (1)
     0x81, 0x02,        //   Input (Data, Variable, Absolute)
 
-    // D-Pad (Hat switch)
+    
     0xC0               // End Collection
 };
 

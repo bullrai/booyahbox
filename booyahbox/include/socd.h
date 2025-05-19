@@ -24,13 +24,18 @@ static const char* socd_labels[SOCD_COUNT] = {
 };
 // Déclaration des fonctions pour chaque stratégie
 int8_t neutral_strategy(bool neg, bool pos);
-int8_t up_priority_strategy(bool neg, bool pos);
-int8_t first_input_priority_strategy(bool neg, bool pos, bool &first_input, int8_t &last_state);
+int8_t up_priority_strategy(bool neg, bool pos, bool y);
+int8_t first_input_priority_strategy(bool neg, bool pos, int8_t &first_direction);
 int8_t last_input_priority_strategy(bool neg, bool pos, int8_t &last_state);
 
 // Fonction générale pour appliquer le SOCD cleaning sur un axe
-int8_t apply_socd_cleaning(bool neg, bool pos, bool &first_input, int8_t &last_state);
+int8_t apply_socd_cleaning(bool neg, bool pos, bool &first_input, int8_t &last_state, bool y);
 
 void change_socd_strategy();
+
+void apply_socd_neutral();
+void apply_socd_up_priority();
+void apply_socd_first_input_priority();
+void apply_socd_last_input_priority();
 
 #endif // SOCD_H

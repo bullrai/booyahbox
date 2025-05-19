@@ -12,15 +12,20 @@ set(CMAKE_CXX_STANDARD 17)
 pico_sdk_init()
 
 
-add_subdirectory(lib/pico-ssd1306)
+
 
 # Créer l'exécutable
 add_executable(booyahbox
 src/main.cpp
-# src/profile_manager.cpp
+src/config.cpp
+src/input.cpp
+src/button_config.cpp
 src/socd.cpp
 src/hotkey.cpp
-src/display.cpp
+
+src/usb_descriptors.cpp
+
+
 )
 
 
@@ -45,7 +50,6 @@ target_include_directories(booyahbox PRIVATE
 target_link_libraries(booyahbox
     pico_stdlib
     hardware_i2c
-    pico_ssd1306
     hardware_flash
     hardware_adc
     hardware_gpio
