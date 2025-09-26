@@ -17,12 +17,12 @@
           cmake ninja pkg-config
           gcc-arm-embedded     # toolchain ARM (arm-none-eabi-*)
           python312             # requis par des scripts CMake du SDK
-          pico-sdk pico-examples
+          pico-sdk
           elf2uf2-rs            # util convert .elf → .uf2 (rapide et pratique)
           gdb-multiarch         # debug si besoin
           openocd               # flash/debug (optionnel)
         ];
-        PICO_SDK_PATH = picoSdkPath;
+        PICO_SDK_PATH = "${pkgs.pico-sdk}/lib/pico-sdk";
         shellHook = ''
           echo "→ BooyahBox (Pico) dev-shell"
           echo "  PICO_SDK_PATH=$PICO_SDK_PATH"
