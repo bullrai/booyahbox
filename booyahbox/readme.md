@@ -1,5 +1,3 @@
-[[BooyahBox]]
-
 # BooyahBox Firmware
 
 Firmware minimaliste et ultra-réactif pour stick arcade **100 % custom** basé sur **Raspberry Pi Pico**.  
