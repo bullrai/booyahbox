@@ -4,6 +4,6 @@
 
 method=source_dir
 command=
-source_dir=/home/bull/pico/booyahbox/build/_deps/picotool-src
+source_dir=/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-src
 work_dir=
 

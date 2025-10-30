@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.rule"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete.rule"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build.rule"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure.rule"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download.rule"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install.rule"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir.rule"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch.rule"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test.rule"
 		},
 		{
-			"file" : "/home/bull/pico/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update.rule"
+			"file" : "/home/bull/Documents/GitHub/booyahbox/booyahbox/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update.rule"
 		}
 	],
 	"target" : 
